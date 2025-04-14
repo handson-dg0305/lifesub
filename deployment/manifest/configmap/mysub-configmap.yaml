@@ -5,7 +5,7 @@ metadata:
   namespace: dg0305-lifesub-ns
 data:
   SERVER_PORT: "8082"
-  POSTGRES_HOST: "postgres-mysub"
+  POSTGRES_HOST: "postgres-mysub-postgresql"
   POSTGRES_PORT: "5432"
   POSTGRES_DB: "mysub"
   JPA_DDL_AUTO: "update"
